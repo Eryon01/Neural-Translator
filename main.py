@@ -13,9 +13,9 @@ from elevenlabs import VoiceSettings
 from elevenlabs.client import ElevenLabs
 
 # Load API keys from environment variables (best practice)
-ASSEMBLYAI_API_KEY = os.getenv("ASSEMBLYAI_API_KEY", "c59b46b6aa6c4e3f9aeb61f9aa1d77d9")
-ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY", "sk_c7f683d375e7662d065b3d214033b01a667f697f9b335459")
-ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID", "GBhkZ3dO0fmtdJNSAOxW")
+ASSEMBLYAI_API_KEY = os.getenv("ASSEMBLYAI_API_KEY", "your key")
+ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY", "your key")
+ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID", "your key")
 
 # Create temporary directory for audio files
 TEMP_DIR = tempfile.mkdtemp()
