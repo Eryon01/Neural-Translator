@@ -11,8 +11,8 @@ from elevenlabs.client import ElevenLabs
 from translate import Translator
 
 # Load API keys from environment variables (best practice)
-ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY", "sk_6aa18ed7b153c4b4bbb2286d1a85565345cb897a8402424e")
-ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID", "9z6wtjnCmYg1oYh2RYWy")
+ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY", "your keys")
+ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID", "your keys")
 
 # Create temporary directory for audio files
 TEMP_DIR = tempfile.mkdtemp()
