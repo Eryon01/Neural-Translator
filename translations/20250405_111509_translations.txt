@@ -1,0 +1,12 @@
+English: This is Ari and we speak.
+Hindi: यह एकरी है और हम बात करते हैं.
+
+English: and I would love to tell you
+Hindi: और मैं तुम्हें बताने के लिए प्यार होगा
+
+English: project which is
+Hindi: परियोजना है
+
+English: Neural Machine Translator.
+Hindi: तंत्रिका मशीन अनुवादक.
+
